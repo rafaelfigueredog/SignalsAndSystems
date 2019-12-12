@@ -1,6 +1,6 @@
 # Sinais e Sistemas
 
-[Convolução](https://github.com/rafaelfigueredog/SignalsAndSystems/blob/master/convolution.gif)
+![Convolução](https://github.com/rafaelfigueredog/SignalsAndSystems/blob/master/convolution.gif)
 
 Repositório destinado as atividades da diciplina de Sinais e Sistemas: 
 
