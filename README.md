@@ -14,4 +14,4 @@ Repositório destinado as atividades da diciplina de Sinais e Sistemas:
 
 ### Créditos 
 
-[[1]](https://howicodestuff.github.io/machine_learning/theory/2018/08/13/convolution.html)_Gif extracted from **howicodestuff.github.io**_
+[[1]](https://howicodestuff.github.io/machine_learning/theory/2018/08/13/convolution.html) _Gif extracted from **howicodestuff.github.io**_
